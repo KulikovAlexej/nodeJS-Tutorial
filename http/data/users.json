@@ -1,0 +1,30 @@
+[
+    {
+        "login": "Alex_96",
+        "id": 1,
+        "activated": true,
+        "firstName": "Alex",
+        "lastName": "Kulikov"
+    },
+    {
+        "login": "Alexis22",
+        "id": 2,
+        "activated": false,
+        "firstName": "Alexis",
+        "lastName": "Sanchez"
+    },
+    {
+        "login": "CriRo7",
+        "id": 7,
+        "activated": true,
+        "firstName": "Cristiano",
+        "lastName": "Ronaldo"
+    },
+    {
+        "login": "stalker22",
+        "id": 12,
+        "activated": false,
+        "firstName": "Илья",
+        "lastName": "Сотолев"
+    }
+]
